@@ -1,0 +1,72 @@
+.full {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.banner {
+    display: grid;
+    grid-template-columns: 75% 7% 7% 7% 4%;
+}
+
+.text2 {
+    position: absolute;
+    top: auto;
+    bottom: 400px;
+    left: 350px;
+    right: auto;
+   
+    color: aqua;
+}
+
+.relative {
+    position: relative;
+}
+
+.text3 {
+    margin-left: 65px;
+}
+
+.step3 {
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+}
+
+.step3 img {
+    border-radius: 20px;
+    width: 100%;
+}
+
+.col1_1 {
+    padding-bottom: 15px;
+}
+
+.col1_2 {
+    padding-bottom: 15px;
+}
+
+.col1 {
+    padding-left: 20px;
+}
+
+.col2_1 {
+    padding-bottom: 15px;
+}
+
+.col2_2 {
+    padding-bottom: 15px;
+}
+
+.col2 {
+    padding-left: 20px;
+}
+
+.col3 {
+    padding-left: 19px;
+    width: 99%;
+}
+
+.step4 {
+    display: grid;
+    grid-template-columns: 66.66% 33.33%;
+}
